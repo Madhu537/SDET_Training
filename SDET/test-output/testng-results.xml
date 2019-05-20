@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57081" started-at="2019-05-19T16:33:07Z" finished-at="2019-05-19T16:34:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57081" started-at="2019-05-19T16:33:07Z" finished-at="2019-05-19T16:34:04Z">
+      <class name="com.testCases.TC_AssignLeave_004">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testCases.TC_AssignLeave_004@77f99a05]" name="setup" is-config="true" duration-ms="41225" started-at="2019-05-19T16:33:07Z" finished-at="2019-05-19T16:33:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.testCases.TC_AssignLeave_004@77f99a05]" name="loginTest" duration-ms="15824" started-at="2019-05-19T16:33:48Z" finished-at="2019-05-19T16:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testCases.TC_AssignLeave_004@77f99a05]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-05-19T16:34:04Z" finished-at="2019-05-19T16:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testCases.TC_AssignLeave_004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
